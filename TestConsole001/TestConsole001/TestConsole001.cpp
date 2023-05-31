@@ -1,20 +1,56 @@
-﻿// TestConsole001.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
-
+﻿
 #include <iostream>
-
-int main()
+#include <stdio.h>   // #include : 전처리기 지시문
+                     // 
+void MyNewPrint(int number)
 {
-    std::cout << "Hello World!\n";
+    printf("입력값은 %d 입니다. \n", number);
+
 }
 
-// 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
-// 프로그램 디버그: <F5> 키 또는 [디버그] > [디버깅 시작] 메뉴
+int PlusTwoNumbers(int number1, int number2)
+{
+    printf("입력 값은 %d, %d 입니다. \n", number1, number2);
+    return number1 + number2;
+}
 
-// 시작을 위한 팁: 
-//   1. [솔루션 탐색기] 창을 사용하여 파일을 추가/관리합니다.
-//   2. [팀 탐색기] 창을 사용하여 소스 제어에 연결합니다.
-//   3. [출력] 창을 사용하여 빌드 출력 및 기타 메시지를 확인합니다.
-//   4. [오류 목록] 창을 사용하여 오류를 봅니다.
-//   5. [프로젝트] > [새 항목 추가]로 이동하여 새 코드 파일을 만들거나, [프로젝트] > [기존 항목 추가]로 이동하여 기존 코드 파일을 프로젝트에 추가합니다.
-//   6. 나중에 이 프로젝트를 다시 열려면 [파일] > [열기] > [프로젝트]로 이동하고 .sln 파일을 선택합니다.
+int TripleNumbers(int A, int B, int C)
+{
+    printf("입력 값은 %d, %d, %d 입니다. \n", A, B, C);
+    return A * B * C;
+
+}
+
+
+
+int main(void)
+{
+    int number = 10;
+    /**
+    std::cout << "Hello World!\n";
+    printf("여러줄 같이 작성하는법 = shift + Alt + 방향키 \n");
+    printf("여러줄 같이 작성하는법 = shift + Alt + 방향키 \n");
+    printf("여러줄 같이 작성하는법 = shift + Alt + 방향키 \n");
+    printf("줄바꿈 확인 \n");
+    printf("특수문자 확인 \" \n");
+    // 특수문자 출력을 할때는 이스케이프 스퀸시 (\ : 역슬래시) 뒤에 사용한다.
+
+    printf("변수 확인 : %d \n", number - 2);
+    */
+    //MyNewPrint(100); //함수 호출
+   
+    printf("두 수의 합은 %d 입니다. \n\n", PlusTwoNumbers(5, 7));
+    printf("세 수의 곱은 %d 입니다. \n\n", TripleNumbers(1, 2, 3));
+    MyNewPrint(100);
+    
+    // Comment = 주석 : 이 라인은 프로그램에 영향을 주지 않는다.
+    // 내가 필요한 글자를 마음대로 적으면 된다.
+    // 이것을 한줄 주석이라고 한다.
+    /*
+    *  이것을 여러줄 주석이라고 한다.
+    *  이 라인들은 프로그램에 영향을 주지 않는다.
+    */
+
+    return 0; // return을 만난순간 함수는 종료된다.
+}
+
