@@ -1,0 +1,301 @@
+<mxfile host="Electron" modified="2023-06-01T07:07:07.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="YEY2lPcSytIVo5zsl5h1" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="rjF-AWA3dOG0eTosArHL">
+    <mxGraphModel dx="1418" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jfwgwon03LRI_vSBdGSm-1" value="int main ()&lt;br&gt;{&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-2" value="C++에서 Console 프로젝트의&lt;br&gt;시작점은 main 함수" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-3" value="변수" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-4" target="jfwgwon03LRI_vSBdGSm-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-4" value="연산자" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry y="1169" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-5" value="특정 연산을 요구할 때&lt;br&gt;사용하는 약속된 기호다.&lt;br&gt;Operator 라고한다.&lt;br&gt;&lt;br&gt;산술 연산자 -&amp;gt; +, *, -, ++, --, /" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1169" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-7" value="단항 연산자 : 연산되는 항이 1개인 연산자다.&lt;br&gt;ex) ++, --&lt;br&gt;이항 연산자 : 연산되는 항이 2개인 연산자다&lt;br&gt;ex) +, -, *, /&lt;br&gt;삼항 연산자 : 연산되는 항이 3개인 연산자다&lt;br&gt;&amp;nbsp;ex) 어렵게 생겼음 -&amp;gt; (a &amp;lt; b ) ? : 1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry y="1320" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-8" value="수학적으로는 정해지지 않은,&lt;br&gt;임의의 값을 대입할 수 있는 문자를 의미한다.&lt;br&gt;&lt;br&gt;프로그래밍에서는&lt;br&gt;값을 저장할 수 있는 메모리 공간에 붙은 이름.&lt;br&gt;혹은 메모리 공간 자체를 의미한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-9" value="모니터&lt;br&gt;(출력장치)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="130" y="2547.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-10" value="키보드,마우스&lt;br&gt;(입력장치)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2547.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-12" value="하드디스크&lt;br&gt;(HDD, SSD)&lt;br&gt;512GB, 1TB&lt;br&gt;&lt;br&gt;비휘발성 저장장치" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry y="2640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-13" value="메모리&lt;br&gt;(RAM)&lt;br&gt;16GB&lt;br&gt;&lt;br&gt;휘발성 저장장치" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-14" value="CPU&lt;br&gt;연산장치" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-15" value="그래픽 카드&lt;br&gt;(GPU)&lt;br&gt;연산장치" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="241" y="2840" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-16" value="하드디스크 안에&lt;br&gt;있는 우리가 실행할 수 있는 &lt;br&gt;무언가를 프로그램이라고 한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="112" y="2338" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-17" value="소프트웨어" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="17" y="2458" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-18" value="프로그램" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="142" y="2458" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-19" value="Application&lt;br&gt;(App)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="243" y="2458" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-16" target="jfwgwon03LRI_vSBdGSm-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="92" y="2288" as="sourcePoint" />
+            <mxPoint x="142" y="2238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-16" target="jfwgwon03LRI_vSBdGSm-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="2428" as="sourcePoint" />
+            <mxPoint x="52" y="2453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-16" target="jfwgwon03LRI_vSBdGSm-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="2428" as="sourcePoint" />
+            <mxPoint x="152" y="2453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-10" target="jfwgwon03LRI_vSBdGSm-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="2660" as="sourcePoint" />
+            <mxPoint x="-150" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-13" target="jfwgwon03LRI_vSBdGSm-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="2620" as="sourcePoint" />
+            <mxPoint x="240" y="2660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-13" target="jfwgwon03LRI_vSBdGSm-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="2740" as="sourcePoint" />
+            <mxPoint x="80" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-28" value="뭔가 프로그램&lt;br&gt;실행한 결과" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="70" y="2745" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF8000;fillColor=#fff2cc;strokeColor=#FF8000;" parent="1" source="jfwgwon03LRI_vSBdGSm-14" target="jfwgwon03LRI_vSBdGSm-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="2620" as="sourcePoint" />
+            <mxPoint x="240" y="2660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="jfwgwon03LRI_vSBdGSm-28" target="jfwgwon03LRI_vSBdGSm-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="2630" as="sourcePoint" />
+            <mxPoint x="250" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="jfwgwon03LRI_vSBdGSm-13" target="jfwgwon03LRI_vSBdGSm-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2640" as="sourcePoint" />
+            <mxPoint x="260" y="2680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-32" target="jfwgwon03LRI_vSBdGSm-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-32" value="사용하기 위해서 실행한 &lt;br&gt;프로그램은 메모리에 올라간다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="440" y="2400" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-33" value="프로세스라고 한다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="2502.5" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-35" target="jfwgwon03LRI_vSBdGSm-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-35" value="프로세스는 연산을 위해서&lt;br&gt;CPU한테 계산을 부탁한다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="2582" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-36" value="프로세스의 부탁을 들어주는&lt;br&gt;역할을 하는 중간 요소를&lt;br&gt;쓰레드라고 한다. (Thread)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="2660" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-60" value="프로그램의 구성요소" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fontStyle=1;glass=0;" parent="1" vertex="1">
+          <mxGeometry y="-160" width="1000" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-62" target="jfwgwon03LRI_vSBdGSm-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-62" value="int" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-63" target="jfwgwon03LRI_vSBdGSm-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-63" value="number" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="161" y="120" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-64" target="jfwgwon03LRI_vSBdGSm-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-64" value="= 0;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-65" value="Data Type&lt;br&gt;자료형" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-66" value="변수 이름" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="161" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-67" value="대입할 값" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-71" value="변수의 크기를 담당" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-72" target="jfwgwon03LRI_vSBdGSm-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-72" value="변수 이름을 짓는 규칙이 있다.&lt;br&gt;(코딩 컨벤션)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-73" value="1. 변수의 이름은 알바벳, 숫자, &lt;br&gt;언더바( _ )로 구성된다.&lt;br&gt;&lt;br&gt;2. 대소문자를 구분한다. 따라서 변수 Num과 num은 &lt;br&gt;서로 다른 변수이다.&lt;br&gt;&lt;br&gt;3. 변수의 이름은 숫자로 시작할 수 없고, 키워드도 변수의 이름으로 사용할 수 없다. 소문자로 시작한다&lt;br&gt;&lt;br&gt;4. 이름 사이에 공백이 삽입될 수 없다.&lt;br&gt;&lt;br&gt;5. 변수이름앞에 언더바가 존재한다면 해당 변수의 값을 변경하지 말라는 뜻&lt;br&gt;&amp;nbsp; &amp;nbsp;ex) _abc" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-75" target="jfwgwon03LRI_vSBdGSm-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-75" value="대입 연산자 (=) : 연산자 오른쪽에 있는 값을&lt;br&gt;연산자 왼쪽에 있는 변수에 대입한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-76" value="대입 연산자와 산술 연산자" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-85" target="jfwgwon03LRI_vSBdGSm-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-85" target="jfwgwon03LRI_vSBdGSm-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-85" value="변수를 사용하는 방법.&lt;br&gt;&lt;br&gt;1. 변수를 선언한다.&lt;br&gt;2. 변수를 초기화 한다.&lt;br&gt;3. 저장된 값을 사용한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="920" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-86" target="jfwgwon03LRI_vSBdGSm-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-86" value="선언 : 사용하기 위해서 미리 알려주는것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="320" y="900" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-87" target="jfwgwon03LRI_vSBdGSm-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-87" value="초기화 : 사용하기 전에 누구나 알 수 있는 값을 미리 할당 하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="320" y="980" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-88" value="int number;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="640" y="900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-89" value="int number = 10;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-91" value="number = 0;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="640" y="980" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-94" value="int number = 10;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-95" target="jfwgwon03LRI_vSBdGSm-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-95" value="선언과 동시에 초기화" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-97" value="뒤에 있는 10은&lt;br&gt;변수가 아닌 상수다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-98" target="jfwgwon03LRI_vSBdGSm-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-98" value="산술 연산자: 연산자 오른쪽에 있는 값을&lt;br&gt;연산자 왼쪽에 연산한다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="910" y="1290" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-99" value="+ : 두 피연산자의 값을 더한다.&lt;br&gt;- : 왼쪽의 피연산자 값에서 오른쪽의 피연산자값을 뺀다.&lt;br&gt;* : 두 피연산자의 값을 곱한다.&lt;br&gt;/ : 왼쪽의 피연산자 값을 오른쪽의 피연산자 값으로 &lt;br&gt;나눈다.&lt;br&gt;% : 왼쪽의 피연산자 값을 오른쪽의 피연산자 값으로 나눴을 때 얻게 되는 나머지값을 반환한다. (mod 연산)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="870" y="1410" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-100" value="복합 대입 연산자 : 다른 연산자와 합쳐진 형태의 대입 연산자도 존재한다.&lt;br&gt;&lt;br&gt;*=, /=, %=, +=, -=, 기타 등등" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-102" value="부호 연산자 : +3, -7 처럼 앞에 붙는&amp;nbsp;&lt;br&gt;+, - 부호를 뜻하는 연산자이다.&lt;br&gt;&lt;br&gt;+, -" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-103" value="증감 연산자 : 변수에 저장된 값을 1 증가&lt;br&gt;및 감소시키는 경우에 사용하는 연산자.&lt;br&gt;&lt;br&gt;++ : 변수에 1을 더한다.&lt;br&gt;-- : 변수에 1을 뺀다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-104" value="연산자에는 계산을 하는 순서가 존재한다.&lt;br&gt;이것을 연산자 우선순위라고 한다.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="399" y="1169" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-106" target="jfwgwon03LRI_vSBdGSm-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-106" value="관계 연산자 : 관계 연산자는 크고 작음과,&lt;br&gt;동등한지 관계를 따지는 연산자이다.&lt;br&gt;그래서 관계 연산자를 두고 &quot;비교 연산자&quot;&lt;br&gt;라고도 한다.&lt;br&gt;&lt;br&gt;연산의 결과는 참 또는 거짓으로 나타난다.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1570" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-107" value="&amp;lt;, &amp;gt;, ==, !=, &amp;lt;=, &amp;gt;=&lt;br&gt;등이 있다.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1730" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-109" value="조건을 만족하면 참을, &lt;br&gt;만족하지 않으면 거짓을 반환한다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1570" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-110" value="논리 연산자 : AND(논리곱), OR(논리합), NOT(논리부정)을 표현하는 연산자이다.&lt;br&gt;&lt;br&gt;&amp;amp;&amp;amp; : A&amp;amp;&amp;amp;B&lt;br&gt;A와 B 모두 &#39;참&#39;이면 연산결과로 &#39;참&#39;을 반환한다.&lt;br&gt;&lt;br&gt;|| : A||B&lt;br&gt;A와 B 둘 중 하나라도 &#39;참&#39;이면 연산결과로 &#39;참&#39;을 반환한다.&lt;br&gt;&lt;br&gt;! : !A&lt;br&gt;A가 &#39;참&#39;이면 &#39;거짓&#39;, A가 &#39;거짓&#39;이면 &#39;참&#39;을 반환한다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1850" width="460" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-111" target="jfwgwon03LRI_vSBdGSm-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-111" value="삼항 연산자" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-112" target="jfwgwon03LRI_vSBdGSm-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jfwgwon03LRI_vSBdGSm-112" target="jfwgwon03LRI_vSBdGSm-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-112" value="(조건식)? A : B" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1600" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-114" value="조건식이 &lt;br&gt;참이면 A리턴 or 실행&lt;br&gt;거짓이면 B 리턴 or 실행" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1680" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-116" value="(age &amp;lt; 20 ) ? &quot; 20살보다 작다&quot; : &quot;20살보다 크다.&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1600" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jfwgwon03LRI_vSBdGSm-118" target="jfwgwon03LRI_vSBdGSm-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-118" value="기본적으로 내가 만든 함수는 main&lt;br&gt;함수 위에 있어야 한다.&lt;br&gt;&lt;br&gt;main 함수 아래에 있으면 못찾는다." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1760" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-119" value="무슨 함수를 만들었는지 컴파일러에게&lt;br&gt;알려줄 수 있는데, 이러한 방법을&lt;br&gt;&lt;br&gt;프로토 타입 또는 전방선언 이라고 한다&lt;br&gt;책의 목차로 생각하면 좋음." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1880" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OnE8oj_o5cO2TdLJXezj-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;컴퓨터와 구조, 관계&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry y="2080" width="830" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

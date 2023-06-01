@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-05-31T01:37:50.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="pQX_a_JTZJTZ702Dnhhx" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="rjF-AWA3dOG0eTosArHL">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jfwgwon03LRI_vSBdGSm-1" value="int main ()&lt;br&gt;{&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-2" value="C++에서 Console 프로젝트의&lt;br&gt;시작점은 main 함수" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-3" value="변수" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfwgwon03LRI_vSBdGSm-4" target="jfwgwon03LRI_vSBdGSm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-4" value="연산자" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-5" value="특정 연산을 요구할 때&lt;br&gt;사용하는 약속된 기호다.&lt;br&gt;Operator 라고한다.&lt;br&gt;&lt;br&gt;산술 연산자 -&amp;gt; +, *, -, ++, --, /" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfwgwon03LRI_vSBdGSm-7" value="단항 연산자 : 연산되는 항이 1개인 연산자다.&lt;br&gt;ex) ++, --&lt;br&gt;이항 연산자 : 연산되는 항이 2개인 연산자다&lt;br&gt;ex) +, -, *, /&lt;br&gt;삼항 연산자 : 연산되는 항이 3개인 연산자다&lt;br&gt;&amp;nbsp;ex) 어렵게 생겼음 -&amp;gt; (a &amp;lt; b ) ? : 1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="240" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

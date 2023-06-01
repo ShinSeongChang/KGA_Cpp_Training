@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2023-06-01T08:53:15.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="XY1VDLERmmb9s3MygbAn" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="MFdzjRCwrxtV6-xmtkW5">
+    <mxGraphModel dx="982" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EantnGPB4Pb-WbOaQfai-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;자료형(Daya Type)&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="40" width="810" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EantnGPB4Pb-WbOaQfai-3" target="EantnGPB4Pb-WbOaQfai-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-3" value="콤마 연산자 : 둘 이상의 변수를 동시에 선언하거나&lt;br&gt;둘 이상의 문장을 한 행에 삽입하는 경우에 사용되는 연산자이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-4" value="int number1, number2;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EantnGPB4Pb-WbOaQfai-7" target="EantnGPB4Pb-WbOaQfai-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-7" value="자료형" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-8" value="자료형은(DataType)은 데이터를 표현하는 방법을 의미한다. 그리고 int는 그러한 자료형의 일종이다.&lt;br&gt;&lt;br&gt;이러한 자료형이 미리 정의되어 있기에 우리는 자료형의 이름을 이용해서 쉽게 메모리 공간을 할당할 수 있다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-11" value="정수형" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-12" value="실수형" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-13" value="char (1byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-14" value="short (2byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-15" value="int (4byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-16" value="long (4byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-17" value="long long (8byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-19" value="float (4byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-21" value="double (8byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-22" value="long double (8byte 이상)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-23" value="1 byte = 8bit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-24" value="bit는 0과 1 &lt;br&gt;단 두개만 나타내는 단위" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-25" value="1 bit -&amp;gt; 0,1&lt;br&gt;0 또는 1 한 자리&lt;br&gt;그래서 숫자를 2개만 표현 가능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-26" value="2 bit -&amp;gt; 00, 01, 10, 11&lt;br&gt;0 또는 1 두 자리&lt;br&gt;그래서 숫자를 4개만 표현 가능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-27" value="3 bit -&amp;gt; &lt;br&gt;000, 001, 010, 011,&amp;nbsp;&lt;br&gt;100, 101, 110, 111&lt;br&gt;0 또는 1 세 자리&lt;br&gt;그래서 숫자를 2^3개만 표현 가능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-28" value="책이나 블로그에 나와있는&lt;br&gt;자료형 크기 말고,&lt;br&gt;내 컴퓨터에 맞는 자료형 크기를 직접 알아보고 싶은 경우에&lt;br&gt;sizeof()라는 함수를 사용한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EantnGPB4Pb-WbOaQfai-29" target="EantnGPB4Pb-WbOaQfai-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-29" value="char (1byte)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EantnGPB4Pb-WbOaQfai-30" target="EantnGPB4Pb-WbOaQfai-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-30" value="문자 1글자를 &lt;br&gt;받기 위한 자료형이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="910" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-32" value="C++ 에서 문자는 아스키&lt;br&gt;코드라는 것을 사용한다.&lt;br&gt;&lt;br&gt;아스키 코드는 정수로 되어 있다.&lt;br&gt;그러니 컴퓨터는 문자와 숫자를 &lt;br&gt;자체적으로는 구별하지 못한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1000" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-35" value="반복문" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1169" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-37" value="지금까지는 한 라인에 명령을 한 줄 정도 실행했었음.&lt;br&gt;반복문은 같은 명령을 여러번 시키고 싶을 때 사용한다.&lt;br&gt;&lt;br&gt;C++ 언어에서는 while문, for문 같은 반복문이 있다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1240" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EantnGPB4Pb-WbOaQfai-38" value="while문 사용법&lt;br&gt;&lt;br&gt;while(조건식)&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;//조건식이 참이면 스코프 안의 내용을 실행한다.&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;//조건식이 거짓이면 스코프 밖으로 빠져나간다.&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="360" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
