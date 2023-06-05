@@ -17,11 +17,12 @@ void criticalDamage();
 
 int main()
 {
-	/*								// 수업예제 (무한 반복문)
+		// 수업예제 (무한 반복문)
+	/*
 	int loopCount = 1;
 	char userInput = '0';
 
-	while (1) // 무한반복문 == while 조건안에 1(참)을 집어넣는다.
+	while (1)	// 무한반복문 == while 조건안에 1(참)을 집어넣는다.
 	{
 		if (loopCount == 1)		//최초만 실행될 문구 == 시작값인 1과 비교한다.
 
@@ -31,26 +32,26 @@ int main()
 		
 		printf("\n[system] 당신은 플레이어 입니다. \n");
 		printf("수행할 액션을 입력해 주세요. : ");
-		scanf_s("%c", &userInput);
+		scanf_s("%c", &userInput);		// 플레이어에게 문자 자료형을 입력받는다.
 
-		if (userInput == 'q' || userInput == 'Q')
+		if (userInput == 'q' || userInput == 'Q')		//유저가 q 또는 Q 데이터 입력시 조건충족
 		{
-			printf("\n[system] 프로그램을 종료합니다.\n");
-			break;
+			printf("\n[system] 프로그램을 종료합니다.\n");		
+			break;		// break; 는 무한반복문을 탈출하기 위한 명령어이다. 즉 q 또는 Q를 입력하면 무한반복 탈출
 		}
-		else
+		else		// q 와 Q를 제외한 다른 데이터 입력시
 		{
 			printf("\n[system] 해당 입력은 정의되어 있지 않습니다. \n");
-			loopCount += 1;
-			continue;
+			loopCount += 1;		// loopCount를 증가시켜 최초 실행문구까지 반복되어 나오는것을 방지한다.
+			continue;			// break;문은 실행시 반복문을 바로 종료시키지만 continue문은 
 		}
 
 		loopCount += 1;			// 최초문구 실행의 반복을 막을 카운트
 		
 
 	}
-	
-
+	*/
+	/*
 	int usernumber;
 	int loopcount = 0;
 
@@ -122,12 +123,12 @@ int main()
 	}
 	*/
 
-	//Description003();
+	Description003();
 	//Description004();
 	//Description005();
 	//randomDiceNomal();
 	//Description006();
-	criticalDamage();
+	//criticalDamage();
 
 	return 0;
 
