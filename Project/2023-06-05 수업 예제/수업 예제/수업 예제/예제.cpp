@@ -117,11 +117,12 @@ void Description004()
 
 	// { board를 출력하는 로직
 
+	/*
 	for (int i = 0; i < 5; i++)
 	{
 		printf("%c ", board[i]);
 	}
-
+	*/
 	printf("\n\n");
 	// } board를 출력하는 로직
 }
