@@ -12,6 +12,7 @@ int main()
 	//starNormal();
 	//starHard();
 	void starVeryHard();
+
 	return 0;
 }
 // main함수 종료부
@@ -71,9 +72,13 @@ void starVeryHard()
 {
 	int star[5] = { 0, };
 	int circcle = 0;
+	char userKey;
+	char keyLeft = 'a';
+	char keyRight = 'd';
 
 	while (1)
 	{
+		system("cls");
 
 		for (int i = 0; i < 5; i++)
 		{
@@ -83,14 +88,39 @@ void starVeryHard()
 			{
 				star[i] = '0';
 			}
+
+			else if (circcle >= 5)
+			{
+				circcle = 4;
+			}
+
+			else if (circcle <= 0)
+			{
+				circcle = 0;
+			}
 		}
 
 		for (int i = 0; i < 5; i++)
 		{
-			printf("%c", star[i]);
+			printf("%c ", star[i]);
+		}
+
+		userKey = _getch();		// 유저가 아무 키나 입력을 한다.
+
+		if (userKey == keyLeft)		// 만약 유저가 입력한 키가 keyLeft = 'a' 라면
+		{
+			circcle--;			// circcle의 값을 1감소 => 주소값이 내려가니 왼쪽으로 이동하는것과 동일
+
+		}
+
+		else if (userKey == keyRight)		// 만약 유저가 입력한 키가 keyRight = 'd' 라면
+		{
+			circcle++;			// circcle의 값을 1증가 => 주소값이 올라가니 오른쪽으로 이동하는것과 동일
+
 		}
 
 		printf("\n");
 
 	}
+
 }
