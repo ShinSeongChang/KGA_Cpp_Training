@@ -24,14 +24,14 @@ int main()
 	//char string_2[] = "Good morning!";
 	//string_1 = "Good morning!";			// 선언 이후 값 대입 불가능
 
-	//Description001();
+	Description001();
 	//Description002();
 	//Description003();
 	//DescShuffle();
 	//lotto();
 	//test001();
 	//test002();
-	void Poker();
+	//Poker();
 
 	return 0;
 }
@@ -296,6 +296,7 @@ void lotto()
 
 }
 
+/*
 void Poker()
 {
 	srand(time(NULL));
@@ -352,16 +353,7 @@ void Poker()
 
 
 }
-
+*/
 
 // A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K		/ 한 무늬 당 13장씩 존재한다.
 
-void cardShuffle(int* randomshuffle1, int* randomshuffle2, int* randomshuffle3, int* randomshuffle4)
-{
-	int shuffle = 0;
-	shuffle = *randomshuffle1;
-	*randomshuffle1 = *randomshuffle2;
-	*randomshuffle2 = *randomshuffle3;
-	*randomshuffle3 = *randomshuffle4;
-	*randomshuffle4 = shuffle;
-}
