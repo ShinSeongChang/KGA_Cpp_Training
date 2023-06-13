@@ -1,0 +1,234 @@
+<mxfile host="Electron" modified="2023-06-12T08:58:02.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="eqQ9_Lr5PAJ5b7N7a3ut" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="SE_4nyyAwK2z10DYf-OB">
+    <mxGraphModel dx="2182" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9eI0jBL5254wGleiNrC_-15" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="40" width="691" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-1" value="Call by refernce란 무엇인가" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-2" value="레퍼런스란 ? 언급하는것." style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry y="120" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-5" value="Call by refernce 언제 쓰는가" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="240" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-6" value="입력하고 싶은 매개변수 값을&lt;br&gt;변경하고 싶을 때" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="240" y="120" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9eI0jBL5254wGleiNrC_-15" source="9eI0jBL5254wGleiNrC_-5" target="9eI0jBL5254wGleiNrC_-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-10" value="메모리를 최적화 할 때." style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="240" y="240" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9eI0jBL5254wGleiNrC_-15" source="9eI0jBL5254wGleiNrC_-6" target="9eI0jBL5254wGleiNrC_-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-11" value="왜 쓰는가" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="480" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-12" value="1. 값의 변경&lt;br&gt;2. 효율성&lt;br&gt;3. 객체 수정&lt;br&gt;4. 여러 반환 값&lt;br&gt;5. 객체 복사 방지" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="481" y="120" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-13" value="Call by refernce쉽게 구분하려면" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-15" vertex="1">
+          <mxGeometry x="240" y="350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-32" value="객체지향이란 무엇인가" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="760" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-33" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="520" width="769.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-16" value="Call by Value" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-33" vertex="1">
+          <mxGeometry width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-29" value="Call by value란?&lt;br&gt;함수의 호출 방법 중 하나로,&lt;br&gt;&amp;nbsp;값에 의한 호출 방법이다." style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-33" vertex="1">
+          <mxGeometry y="80" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-30" value="Call by value의 쓰임새&lt;br&gt;1. 값의 변경이 필욯지 않을경우&lt;br&gt;2. 원본 변수의 보호가 필요한 경우&lt;br&gt;3. 단순한 값 타입의 변수를 전달할 경우&lt;br&gt;4. 함수의 독립성을 유지시키고 싶을 경우" style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-33" vertex="1">
+          <mxGeometry x="240.5" y="80" width="249.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-31" value="사용 이유&lt;br&gt;1. 예측이 가능하다.&lt;br&gt;2. 안정성을 높여준다.&lt;br&gt;3. 코드 재사용성이 높다." style="rounded=1;whiteSpace=wrap;html=1;" parent="9eI0jBL5254wGleiNrC_-33" vertex="1">
+          <mxGeometry x="520" y="80" width="249.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-39" value="객체지향이란 ?&lt;br&gt;프로그래밍 방법의 하나&lt;br&gt;여러 부품(객체)을 &#39;조립&#39;해서 프로그램을 완성" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="840" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-40" value="객체지향의 구성&lt;br&gt;캡쳐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="840" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-41" value="객체지향의 장, 단점&lt;br&gt;캡쳐" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="840" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-42" value="객체지향의 속성&lt;br&gt;1. 캡슐화&lt;br&gt;2. 상속&lt;br&gt;3. 다형성(오버로딩, 오버라이딩)&lt;br&gt;4. 추상화" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-43" value="객체지향 프로그래밍은&lt;br&gt;수많은 레고를 조립해나가는 모습과&lt;br&gt;비슷하다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280.5" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-44" value="절차지향이란 무엇인가" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1120" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-45" value="절차지향이란 ?&lt;br&gt;물이 위에서 아래로 흐르는 것처럼 순차적인 처리가 중요시 되며 &lt;br&gt;프로그램 전체가 유기적으로 연결되도록 만드는 프로그래밍 기법" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1200" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-46" value="특징" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1200" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-47" value="※ 우리조 ppt 참고 ※" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1430" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-48" value="객체지향과 무엇이 다른지" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1200" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-49" value="장 , 단점" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280.5" y="1300" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-50" value="쓰는 이유" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1300" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-51" value="구조체와 클래스" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1610" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-52" value="구조체란&lt;br&gt;타입이 다른 데이터를 하나로 묶는 방법" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1720" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-53" value="클래스란&lt;br&gt;데이터와 해당 데이터를 처리하는 메서드를 포함하는 자료형&lt;br&gt;객체 지향 프로그래밍의 기본적인 개념" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1720" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eI0jBL5254wGleiNrC_-54" value="구조체와 클래스의 공통점 ,차이점&lt;br&gt;캡처" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1720" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-2" value="Call by value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-3" value="Call by reference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-4" value="C# 에서 함수를 Call 하는 방법이 4가지 있음." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-5" value="변수를 여러개 할당해서 사용하려면&lt;br&gt;기존의 데이터 타입만으로는 부족하다.&lt;br&gt;그래서 배열과 같이 메모리 공간을 여러개 &lt;br&gt;할당하는 형태의 변수가 필요한데, &lt;br&gt;이렇게 메모리 공간을 여러개 할당하는 형태의 변수를&lt;br&gt;컬렉션 (C#) 또는 컨테이너 (C++) 라고 한다.&lt;br&gt;&lt;br&gt;프로그래머들이 말하는 자료구조에 해당한다.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="270" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-6" target="oMzOTXIF4rkmLYgrD6mI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-6" value="Function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-7" value="함수라는 것은 프로그램을&lt;br&gt;동작하도록 하는 기본 단위" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="470" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-9" target="oMzOTXIF4rkmLYgrD6mI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-9" value="Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-10" value="일정한 동작을 구현하기 위해서&lt;br&gt;비슷한 역할을 하도록 하는 함수의 집합" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-12" target="oMzOTXIF4rkmLYgrD6mI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-12" value="Api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-13" value="일정한 동작을 구현하기 위해서&lt;br&gt;비슷한 역할을 구현하는 라이브러리의 집합이다.&lt;br&gt;&lt;br&gt;일반적으로 문서와 함께 제공된다.&lt;br&gt;일반적으로 외부에서 쓰도록 하는 것을&amp;nbsp;&lt;br&gt;목적으로 한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="670" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-15" target="oMzOTXIF4rkmLYgrD6mI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-15" value="Frame work" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-16" value="일정한 동작을 구현하기 위해서&lt;br&gt;프로그래밍을 더 빠르게 할 수 있도록 해주는&lt;br&gt;라이브러리의 집합이다.&lt;br&gt;&lt;br&gt;일반적으로 문서와 함께 제공된다.&lt;br&gt;일반적으로 플랫폼 혹은 회사에 종속적인&lt;br&gt;경향이 있다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="845" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-18" value="Value type 으로 매개변수 넘기는 방법&lt;br&gt;void CallFunc001 (int value);" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-19" value="Value type 으로 매개변수 넘기는 방법&lt;br&gt;void CallFunc002 (params int[] values);" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-20" value="Refernce type 으로 매개변수 넘기는 방법&lt;br&gt;void CallFunc001 (ref int value);" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-22" value="Refernce type 으로 매개변수 넘기는 방법&lt;br&gt;void CallFunc002 (out int value);" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-23" target="oMzOTXIF4rkmLYgrD6mI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-23" value="구조체 &amp;amp; 클래스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-24" value="여러개의 변수를 하나의 카테고리로&lt;br&gt;묶어서 관리하기 위한 자료형" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="240" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-26" target="oMzOTXIF4rkmLYgrD6mI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-26" value="Caching 이란?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-27" value="메모리 공간을 할당해서&lt;br&gt;어떤 값을 저장하여 미리 들고 있는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="350" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-29" value="객체지향 프로그래밍을&lt;br&gt;대표하는 용어가 몇가지 있다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="440" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-30" target="oMzOTXIF4rkmLYgrD6mI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-30" value="캡슐화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="540" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-31" value="클래스 안의 필드를 private 또는 protected로&lt;br&gt;외부에서 접근하지 못하도록 처리하는 것.&lt;br&gt;&lt;br&gt;필드의 값을 외부에서 함부로 변경하지 못하도록&lt;br&gt;처리하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="520" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-32" value="상속" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="690" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-34" value="부모 클래스와 자식 클래스를 만들어서&lt;br&gt;부모 클래스에 정의된 필드와 메서드를&lt;br&gt;자식 클래스에서 사용할 수 있도록&lt;br&gt;처리하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="670" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-36" value="부모 클래스를 의미하는 용어 : &lt;br&gt;슈퍼 클래스, 부모 클래스, 베이스 클래스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="800" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-37" value="자식 클래스를 의미하는 용어 : &lt;br&gt;서브 클래스, 자식 클래스, 파생 클래스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="880" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-39" target="oMzOTXIF4rkmLYgrD6mI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-39" value="다형성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="980" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-40" value="메서드가 동일한 이름으로&lt;br&gt;다양한 기능을 수행할 수 있도록&lt;br&gt;처리하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="960" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oMzOTXIF4rkmLYgrD6mI-42" target="oMzOTXIF4rkmLYgrD6mI-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-42" value="추상화" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oMzOTXIF4rkmLYgrD6mI-43" value="클래스를 정의할 때, 공통된 필드와 메서드를&lt;br&gt;부모 클래스로 정의해서 중복사용을&lt;br&gt;줄이는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="1100" width="390" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
