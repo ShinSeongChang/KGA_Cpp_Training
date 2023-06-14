@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2023-06-14T09:02:31.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="4zfT2_pv8zItQ92Euole" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="9Ys88AdFxFSlnHQGutx0">
+    <mxGraphModel dx="1658" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sNrm4gWwoy1fFUA4f_UZ-1" target="sNrm4gWwoy1fFUA4f_UZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-1" value="Editor Time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sNrm4gWwoy1fFUA4f_UZ-2" target="sNrm4gWwoy1fFUA4f_UZ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-2" value="Compile Time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-3" value="Run Time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-7" value="내가 코드를 작성하는 때" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-8" value="프로그램을 컴파일 하는 때 ( Build -&amp;gt; Link -&amp;gt; Compile )" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-9" value="프로그램이 메모리에 올라가서 실행되는 동안" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-10" value="Collection (C#)&lt;br&gt;(List, Set, Dictionary, Array, ArrayList)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-11" value="STL Container (C++)&lt;br&gt;(Vector, Set, Map, Array, -)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-12" value="변수를 이것 저것 편하게 쓰기 위해서&lt;br&gt;만들어 놓은 자료구조&lt;br&gt;&lt;br&gt;자료구조 -&amp;gt; Data structure&lt;br&gt;데이터를 저장하는 모양새 (Shape)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="40" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-14" value="List 는 가변배열이다.&lt;br&gt;내부적으로 배열로 구현되어 있지만&lt;br&gt;다른 점은 안에 저장할 데이터 개수에 따라서&lt;br&gt;크기가 변한다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-15" value="Set 은 수학에서 말하는 집합을 의미하는 자료구조.&lt;br&gt;중복된 값을 저장하지 않는다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="680" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-17" value="Collection (C#)&lt;br&gt;(List, Set, Dictionary, Array, ArrayList)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-18" value="Dictionary 는 키, 값, 순서쌍으로 된 데이터를 저장하는&lt;br&gt;자료구조다. 내부적으로 Hash Set (Hash table) 으로 이루어져 있다.&lt;br&gt;더 자세히 뜯어보면 가변배열로 이루어져 있다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="800" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-19" value="ArrayList 는 List 와 비슷한 가변 배열이다.&lt;br&gt;여러가지 데이터 타입을 한번에 들고 있을 수 있다." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="920" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-20" value="Stack 은 가장 마지막에 삽입한 데이터를 가장 먼저&lt;br&gt;접근하는 형태의 자료구조" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1040" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNrm4gWwoy1fFUA4f_UZ-21" value="Queue 는 가장 먼저 삽입한 데이터를 가장 먼저 접근하는&lt;br&gt;형태의 자료구조" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1160" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
