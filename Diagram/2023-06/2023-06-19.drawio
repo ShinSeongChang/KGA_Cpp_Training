@@ -1,0 +1,138 @@
+<mxfile host="Electron" modified="2023-06-19T04:18:17.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="LIq6cXHnHxqSl_z2nCE-" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="u_zXzL_QMjXocQA-UUR2">
+    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-1" value="virtual 이란?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-3" value="override 란?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_rP_WAKEbMxcvqJSKqW-4" target="E_rP_WAKEbMxcvqJSKqW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-4" value="virtual을 왜 사용하는가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_rP_WAKEbMxcvqJSKqW-5" target="E_rP_WAKEbMxcvqJSKqW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-5" value="virtual의 장점" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-6" value="객체지향 프로그래밍의&lt;br&gt;특성, 상속과 다형성에&lt;br&gt;연관이 있습니다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-8" value="가독성 증가.&lt;br&gt;코딩시간 절약.&lt;br&gt;같은 이름인 함수에 다른 기능을 구현가능" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-11" value="virtual을 게임에서?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-13" value="abstract란??" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_rP_WAKEbMxcvqJSKqW-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-14" value="상속의 종류&lt;br&gt;interface.&lt;br&gt;virtual.&lt;br&gt;abstract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-15" value="추상클래스 : 정의" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-16" value="추상클래스 : 사용법과 예시" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-17" value="추상클래스 : 장점, 게임적용" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-19" value="abstract&lt;br&gt;&lt;br&gt;파생 클래스에서 공유할 기본 클래스의 공통적인 요소 정의&lt;br&gt;&lt;br&gt;파생 클래스에서" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="585" width="180" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-20" value="인스턴스화 불가&lt;br&gt;&lt;br&gt;오버라이드 무조건 해야함." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="590" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-21" value="코드 사용성 증가 = 코드의 중복 제거, 코드의 규격화&lt;br&gt;&lt;br&gt;업캐스팅을 통한" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-22" value="업캐스팅 : 자식클래스를 부모 클래스에 저장하는 것" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-24" value="interface 란?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="870" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-25" value="인터페이스 역할" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-26" value="인터페이스 이유" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-27" value="인터페이스 게임구현" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-29" value="인터페이스는 껍데기?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1120" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1120" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-31" value="Partial 클래스&lt;br&gt;Extended 메서드&lt;br&gt;박싱과 언박싱&lt;br&gt;업 캐스팅, 다운 캐스팅&lt;br&gt;추상화, abstract, interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="40" width="239" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-32" value="박싱과 언박싱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_rP_WAKEbMxcvqJSKqW-33" target="E_rP_WAKEbMxcvqJSKqW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-33" value="박싱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_rP_WAKEbMxcvqJSKqW-34" target="E_rP_WAKEbMxcvqJSKqW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-34" value="언박싱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="520" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-35" value="변수에 값을 대입할 때 일어나는 기능으로&lt;br&gt;상위 변수에 하위 변수를 대입하는 것을 의미한다.&lt;br&gt;&lt;br&gt;박싱(Boxing)은 마치 상자에 어떤 물건을 넣는 것처럼&lt;br&gt;하위 변수들을 담을 수 있는 상위 변수에 하위 변수를 대입할 때&lt;br&gt;박싱이 일어난다고 표현한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="300" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-38" value="변수에 값을 대입할 때 일어나는 기능으로&lt;br&gt;상위 변수에 대입했던 하위 변수를 본래의 자료형으로&lt;br&gt;되돌리는 것을 의미한다.&lt;br&gt;&lt;br&gt;언박싱(Unboxing)은 마치 상자에 있던 물건을 꺼내는 것 처럼&lt;br&gt;상위 변수에 있던 하위 변수를 본래의 자료형으로 되돌리기 위해서&lt;br&gt;타입 캐스팅을 할 때,&amp;nbsp; 언박싱이 일어난다고 표현한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="490" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-39" value="박싱과 언박싱은&lt;br&gt;변수타입에서만&lt;br&gt;사용되는 것이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="420" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-40" value="업 캐스팅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-41" value="다운 캐스팅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="757.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-42" value="업 캐스팅은 자식 클래스를 부모 클래스로 타입 캐스팅 하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="680" width="559" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-43" value="다운 캐스팅은 부모 클래스를 자식 클래스로 타입 캐스팅 하는 것을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="760" width="559" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-45" value="Patial&amp;nbsp; class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="880" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-46" value="Extended mothod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="960" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-47" value="클래스를 다른 파일로 나눠서 관리할 때 사용하는 기능이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="880" width="559" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rP_WAKEbMxcvqJSKqW-48" value="이미 존재하는 자료형에 내가 원하는 메서드를 추가하는 기능이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="960" width="559" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
