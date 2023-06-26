@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2023-06-23T06:23:57.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="ornBUbdL3EpgWZq6McMq" version="21.2.8" type="device">
+  <diagram name="페이지-1" id="Ez0A2p55F96A0MqF0rTp">
+    <mxGraphModel dx="1674" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-1" value="6월 26일&amp;nbsp; (월) ~ 6월 30일 (금) &lt;br&gt;/ 1주일 / 워킹데이 5일&lt;br&gt;&lt;br&gt;개인 콘솔 게임제작 프로젝트" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-2" value="보통의 팀 프로젝트에서 필요한 작업" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0Swyp0nBcFVSgnVUoCa-3" target="C0Swyp0nBcFVSgnVUoCa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-3" value="회의록 작성 : 회의를 열고 해당 회의에서 나누었던&lt;br&gt;주요 대화(업무와 관련된) 를 모두 기록하는 작업." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-4" value="회사에서는 Slack을 많이 씀.&lt;br&gt;-&amp;gt; 무료 버전은 90일 까지 보관 가능. 사용하려면 백업 필수.&lt;br&gt;&lt;br&gt;디스코드가 메시지를 무료보관 해주는 것으로&lt;br&gt;알려져 있음, (테스트 필수)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-6" value="회의는 주에 2번을 추천한다.&lt;br&gt;스프린트는 1주 단위 / 2주 단위가 있으나&lt;br&gt;프로는 2주 스프린트에 익숙하지만,&lt;br&gt;학생 때는 1주 스프린트를 추천한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-7" value="회의록, 개발일지,&amp;nbsp; 사전 기획서, 기술문서, 개발일정 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0Swyp0nBcFVSgnVUoCa-8" target="C0Swyp0nBcFVSgnVUoCa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-8" value="개발일지 : 그날 그날 개발한 내용이 무엇인지?&lt;br&gt;왜 그렇게 구현 했는지?&lt;br&gt;구현하면서 발생한 이슈가 무엇인지?&lt;br&gt;시간이 더 주어진다면 개선할 부분은 무엇인지?&lt;br&gt;를 매일 적는 문서." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-9" value="어디다가 적는가?&lt;br&gt;- 본인의 깃 ReadMe.md 파일에 기록 하기도 함.&lt;br&gt;- 본인의 Notion 페이지에 기록 하기도 함.&lt;br&gt;- 따로 파일로 만들어서 원본과 pdf 2가지 &lt;br&gt;파일을 백업하여 관리하기도 한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0Swyp0nBcFVSgnVUoCa-12" target="C0Swyp0nBcFVSgnVUoCa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-12" value="사전 기획서 : 게임 개발에 앞서서 본인이 만들 게임을&lt;br&gt;분석하고, 개발 스펙을 결정하기 위해서 &lt;br&gt;미리 작성해보는 문서이다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-13" value="사전 기획서는 무슨 내용이 담겨야 하는가?&lt;br&gt;(ppt로 제작해서 -&amp;gt; pdf로 제출한다.)&lt;br&gt;&lt;br&gt;1. 게임소개&lt;br&gt;2. 개발 환경 (게임 엔진 버전, IDE 버전 등, OS 버전 등)&amp;nbsp;&lt;br&gt;3. 어떤 플랫폼을 Target 하고 있는지? (PC 빌드, 모바일 빌드,)&lt;br&gt;4. 어떤 입력으로 조작 가능한지?&lt;br&gt;5. Ui 배치도 (예상) -&amp;gt; 개발 스펙을 시각화해서 보여주는 것.&lt;br&gt;6. 게임의 로직 Flow chart&lt;br&gt;7. 개발 일정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C0Swyp0nBcFVSgnVUoCa-15" target="C0Swyp0nBcFVSgnVUoCa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-15" value="기술문서 : 본인의 개발일지를 참고해서 작성하는 &lt;br&gt;문서이다. 게임 개발이 완료된 이후 다른 기업에게&lt;br&gt;본인이 구현한 게임과 본인이 담당한 파트를 설명하는&lt;br&gt;것이 목적이다. 이력서, 자기소개서와 함게 기업에&lt;br&gt;노출하는 Official 문서이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;무엇을 어떻게 왜 구현했는지?&lt;br&gt;구현 중 어떤 문제는 없었는지?&lt;br&gt;무엇이 어려웠는지?&lt;br&gt;추후 시간이 주어진다면 어떻게 개선할 것인지?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-16" value="기술문서는 무슨 내용이 담겨야 하는가?&lt;br&gt;&lt;br&gt;1. 게임소개&lt;br&gt;2. 개발 환경 (게임 엔진 버전, IDE 버전 등, OS 버전 등)&amp;nbsp;&lt;br&gt;3. 어떤 플랫폼을 Target 하고 있는지? (PC 빌드, 모바일 빌드,)&lt;br&gt;4. 어떤 입력으로 조작 가능한지?&lt;br&gt;5. 게임에서 내가 담당한 구현에 대한 설명&lt;br&gt;6. 게임의 로직 Flow chart&lt;br&gt;7. 개발 일정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="990" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-18" value="개발일정 : 구현하고 싶은 게임의&lt;br&gt;씬이 몇 개인지?&lt;br&gt;&lt;br&gt;각 씬 별로 중요한 부분은 프로토 타입으로 분류하고,&lt;br&gt;중요성이 낮지만 게임을 더 꾸며줄 수 있는 부분을&lt;br&gt;폴리싱으로 분류하여서 관리한다.&lt;br&gt;&lt;br&gt;기능은 1시간 ~ 2시간 단위로 세세하게 분류할수록&lt;br&gt;프로젝트 성공률이 높아지고, 현재 진행상황을&lt;br&gt;산출해서 알 수 있다.&lt;br&gt;&lt;br&gt;기능을 세세하게 분류하지 않는 경우에는&lt;br&gt;프로젝트 실패확률이 높아지고, 내가 얼마나 구현했는지,&lt;br&gt;얼마나 더 구현해야 완성할 수 있을지 알 수 없게 된다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-19" value="프로토 타입이란?&lt;br&gt;&lt;br&gt;게임을 개발할 때, 코어 미케닉을 포함한&lt;br&gt;1번의 게임 사이클을 온전히&amp;nbsp; 플레이할 수&lt;br&gt;있는 결과물을 의미한다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1200" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-20" value="코어 미케닉이란?&lt;br&gt;&lt;br&gt;게임을 구성하는 가장 중요한 로직들을&lt;br&gt;의미한다.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1200" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-21" value="게임 사이클이란?&lt;br&gt;&lt;br&gt;게임의 시작부터 플레이, 종료까지&lt;br&gt;도달하는 과정을 의미한다.&lt;br&gt;&lt;br&gt;- 게임을 시작할 수 없거나&lt;br&gt;- 게임의 플레이가 불가능 하거나&lt;br&gt;- 게임의 종료가 존재하지 않는 경우&lt;br&gt;&lt;br&gt;게임을 구현했다고 할 수 없다." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1320" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-22" value="폴리싱이란?&lt;br&gt;&lt;br&gt;프로토타입과 직접적으로 관련이 없더라도&lt;br&gt;유저의 경험을 상승시켜줄 수 있는 모든&lt;br&gt;추가 구현요소를 의미한다.&lt;br&gt;&lt;br&gt;ex) 플레이어 애니메이션 프레임 수를 늘리거나,&lt;br&gt;로딩 게이지를 더 예쁘게 구현하거나,&lt;br&gt;조작감을 높이기 위해서 입력 처리부분을&lt;br&gt;더 수정한다거나 기타 등등" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1490" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-23" value="레퍼런스 게임 2개 소개&lt;br&gt;&lt;br&gt;- 모험가 이야기&lt;br&gt;- 겨울의 탑&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1750" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-24" value="레퍼런스 게임을 분석할 때&lt;br&gt;&lt;br&gt;1. 게임의 씬을 나눈다. (씬 별로 캡쳐)&lt;br&gt;이 때 모든 씬이 아닌 씬의 종류를 파악한다 ( 메인으로 잡히는 씬,&lt;br&gt;타이틀 씬, 전투 씬, 상점씬 등등...)&lt;br&gt;&lt;br&gt;2.&amp;nbsp; 씬 별로 구현해야 하는 요소들을 파악한다.&lt;br&gt;&lt;br&gt;ex) 타이틀 씬에서 아무 입력이나 받으면 플레이 씬으로 넘어간다.&lt;br&gt;플레이 씬에서는 제일 처음 캐릭터 선택창을 보여준다.&lt;br&gt;캐릭터는 랜덤으로 선택되고, 캐릭터마다 주어지는 스토리&lt;br&gt;기본 스텟등이 다르게 결정된다.&lt;br&gt;&lt;br&gt;==&amp;gt; 각 씬별의 요소와 씬들끼리 이어지는 관계에대해&lt;br&gt;구체적으로 파악한다.&lt;br&gt;&lt;br&gt;3. 게임의 엔딩조건을 파악한다.&lt;br&gt;&lt;br&gt;ex)&amp;nbsp; 체력이 다 닳았을때.&lt;br&gt;스토리의 마지막 이벤트씬에 도착했을때 등등.&lt;br&gt;&lt;br&gt;4. 게임의 요소들을 파악했으면 해당 요소를 기능으로 만들어내는&lt;br&gt;범위를 구분한다. ( 해당 기능을 만들어내는데 1 ~ 2시간 이내면&lt;br&gt;ok, 시간을 넘을것 같으면 해당 기능을 나누어 구분한다.&lt;br&gt;혹 최소단위로 분류한 기능임에도 개발에 시간이 들것 같으면&lt;br&gt;그 이상의 시간을 예상 할당한다.)&lt;br&gt;&lt;br&gt;5. 분류해낸 기능들의 개수를 통해 총 개발에 걸리는 예상시간을&lt;br&gt;산출해 낸다.&lt;br&gt;&lt;br&gt;ex) 레퍼런스 게임 분석시 분류한 기능의 수 =&amp;gt; 15개&lt;br&gt;그중 1가지는 4시간 예상&lt;br&gt;2* 14 + 4 = 32 시간 예상 =&amp;gt; 워킹데이 4일 추산&lt;br&gt;프로토 타입 1주일 소요 예정&lt;br&gt;&lt;br&gt;기간 재조정 필요 ( 구현하기 힘든 기능들을 제외)&lt;br&gt;총 4가지 기능 제외&lt;br&gt;기능당 1 / 11&lt;br&gt;2 * 11 = 22시간 소요 예정 =&amp;gt; 워킹데이 2.x일 추산" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1720" width="360" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-26" value="내가 구현해보지 못한 로직을 적용할 때, 기간 추산이 가능한가?&lt;br&gt;&lt;br&gt;=&amp;gt; 1 ~ 2 시간 공부(검색 등) 을 하여 가능성 여부 확인&lt;br&gt;빛이 보이나?&lt;br&gt;해당 시간을 들여서 안보이면 기능을 제외시킬 여부를 생각한다.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1720" width="413" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C0Swyp0nBcFVSgnVUoCa-27" value="업무용 협업툴(일정 관리)&lt;br&gt;&lt;br&gt;트렐로" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="360" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
